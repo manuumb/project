@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./web.css">
-</head>
+    <link rel="stylesheet" href="./web.css"></head>
+
 <body>
     <h1 style="color: hwb(254 7% 87%) ; background-color: hwb(59 19% 12%);"><center>Discover Restuarant and Food</center></h1>
     <nav>
